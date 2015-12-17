@@ -1,0 +1,14 @@
+layout_spectrum: 0.2132216
+typography_spectrum: 0.9057197
+color:
+  saturation: 0.3578683
+  lightness: 0.4050617
+  brandStrength: 0.1374612
+  rhythmicContrast: 0.8710044
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: DCR Media
